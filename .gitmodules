@@ -1,0 +1,15 @@
+[submodule "android.pushservice.test"]
+	path = android.pushservice.test
+	url = git@github.com:smartcampuslab/android.pushservice.test.git
+[submodule "android.remotefilestorage.test"]
+	path = android.remotefilestorage.test
+	url = git@github.com:smartcampuslab/android.remotefilestorage.test.git
+[submodule "android.security.test"]
+	path = android.security.test
+	url = git@github.com:smartcampuslab/android.security.test.git
+[submodule "spring.cloudfoundry.mysql"]
+	path = spring.cloudfoundry.mysql
+	url = git@github.com:smartcampuslab/spring.cloudfoundry.mysql.git
+[submodule "spring.cloudfoundry.mongo"]
+	path = spring.cloudfoundry.mongo
+	url = git@github.com:smartcampuslab/spring.cloudfoundry.mongo.git
